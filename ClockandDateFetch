@@ -1,0 +1,7 @@
+from datetime import datetime
+import time
+
+while True:
+    now = datetime.now().strftime("%A, %B %d, %Y %H:%M:%S")
+    print(now)  # Replace with GUI display code
+    time.sleep(1)

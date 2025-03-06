@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "grand-voltage-452915-h6",
+  "private_key_id": "cb73c83dc26e3ff6afaf643d094b6d679d235e5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbVxyoIlKTvOjZ\nlwNEpyjnTZkdgCp6SgENwTz7L9AHIfNhn4Gru8gzp1FHIuA5JfKUI5gRHKNv8dY0\nqXwDwaQBG80hN2Ec7wlswXrvfh757N48GJbbyuWF/TVEcBxuzjoY1v+wACPzZD8L\n1bK5RRsv5GruIEXItyIbSLsetxov2cW6E8W/SS/pPfcB69nkzMc0V6pbfqhuPhjl\n+soxg5W8rR2W2M6GAG0o3WT+TfHTbYF2blfK5gBbAUZQUDwIOHuegI2XgJLzqQcU\naouFaSI78B1BP0QmvlNpqvNVCAo4kMBvT8rPOl/CW6WpLXJY0zX6lyVcntNTBVWK\npVRMvLwJAgMBAAECggEAOAaqMkX2zIwk212o8xjrGsmVANvZ9jM8wA5DBUGQYRIw\nqrQR27OlmGOvX93HSzVRkXZpATr4A4cQv/uk2+H6WeACEwnbP8lC9/OseDZfy7pP\nyRMBThKWx8W0cZOR3bEJqS3aGEtkrAMq7gTMKiAvlw1mN65yHNtYNMj9nC1kB3+O\njKgJdn8J11lhIPywen8EDGm+os6XN+FaD0uLPrZbnE60Tq/zbLL/+WCGbNmPg9jK\n8toKAlnDrkGA0ED1XjqH5RxBhSDbBNRCFPJrR2T43BRRFMqN7kwads6B/h4RgR8E\nFYmHTs6lRR498TEDzRIBluewukl4soXeXJTMYz7nlQKBgQDYMOgeC6H2riSqfPh+\n2lns4fjMmsQ5H0CzBmOHljfPfb2aszkwisz1Jdp8MzXEkrrTxIuEjnkPB4o3Nf3b\nocB7QlEyJOLHo7xL9Y0R5vJLOPkbBT8wXSzvsLhVq5UguOtknEFYZTfxraX6jhwo\n2ZBBV7qmsr0LPG5oLW7+4uPEGwKBgQC38b5G3FaAFykxX8sPq2Uf7LI/4b94f5+S\n/HVYF22rmH1JUigUdarg24dj0AtLnfHuQlqZ1I2KxaNSiTeu+/O8/5f2Q+aE7agk\neivlZ+tRpP9sGeNj7zxnxiZ++7SoPjEUmOPfvn+hJi86oGQj7N45mwnmbj9IAc+B\nwilQ1OoaqwKBgQCyDq3OuTP/cPQ/+sfL6tjvsjnxgnKkvWnTSSrGbGGxIlX8SSqM\nIXWnXzLw4lihe1wmuJVUaueoCkS7LlvT/ggDPN6VFy400VVvlmFG4liivdzldU/S\n7JrrGzjnTnd3yPYPGmbzgAIwqh2vHEZzGqWmO7Q+Qa5Tx8UDRpBJm+OOCwKBgH0P\nKYup0FGj7Yi5FSjhIY6z8XiHNhNpyYc4h1tOCm0o7r1D0yYd3gCkoIcW8icGCm8v\nw8NkhJr9xg2eZzJb8BnmOF3hSj/ECJZMTb3Zil7m7BWGAFh4VbxENvYMkYX1So8z\nZ3I+ZS2d9WxJkevu5iOKKg/1kqaVPIx/AnIHX+ajAoGBAJNNWQgcwP2fsW34zaQb\nvaC/OFt96BoGkoriwOSWsLVaZd/YVYgKrhn/qT8mZfLCNDmfCChVYlpTr8TC15XQ\nz8qsImf18VguW9PScTTHkq4WM0gPj4M7HD/CjD271jw63jmvtrLn10eQrZaxgWZB\nZjurWjMAuwKAPNU2NYCG8pgA\n-----END PRIVATE KEY-----\n",
+  "client_email": "bpuriskydakboard-calendar@grand-voltage-452915-h6.iam.gserviceaccount.com",
+  "client_id": "117326664428011173087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bpuriskydakboard-calendar%40grand-voltage-452915-h6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
